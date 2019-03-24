@@ -1,0 +1,3 @@
+Shopping-mall-campaign -> for Women
+
+Store-sale-campaign -> for Men
