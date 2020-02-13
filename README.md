@@ -1,4 +1,12 @@
 ### html-email-template
+Links to samples below
+
+### https://it-services-web-dev.netlify.com/business-html-email.html 
+
+### https://it-services-web-dev.netlify.com/store-sale.html
+
+### https://it-services-web-dev.netlify.com/shopping-mall-sale.html
+
 Responsive HTML Email Template
 ![image](https://user-images.githubusercontent.com/23155302/54885997-274e2780-4e59-11e9-91d5-2394671aa2a0.png)
 
